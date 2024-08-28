@@ -1,0 +1,7 @@
+{
+  "name": "songsIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
