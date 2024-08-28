@@ -1,3 +1,31 @@
 {
-  "songs": []
+  "songs": [
+    {
+      "id" : 1,
+      "name" : "Musica A",
+      "album" : "Album A",
+      "duration" : 1000,
+      "image" : "aaaaa",
+      "artist" : "Artista A",
+      "gender" : "Rock"
+    },
+    {
+      "id" : 2,
+      "name" : "Musica B",
+      "album" : "Album A",
+      "duration" : 1000,
+      "image" : "aaaaa",
+      "artist" : "Artista A",
+      "gender" : "Rock"
+    },
+    {
+      "id" : 3,
+      "name" : "Musica C",
+      "album" : "Album A",
+      "duration" : 1000,
+      "image" : "aaaaa",
+      "artist" : "Artista A",
+      "gender" : "Rock"
+    }
+  ]
 }
