@@ -10,12 +10,13 @@ const routes: Routes = [
     path: '',
     redirectTo: 'home',
     pathMatch: 'full'
-  },  {
+  },
+  {
     path: 'songs',
     loadChildren: () => import('./pages/songs/songs.module').then( m => m.SongsPageModule)
   },
   {
-    path: 'song',
+    path: 'song/:id',
     loadChildren: () => import('./pages/song/song.module').then( m => m.SongPageModule)
   },
 

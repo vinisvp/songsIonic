@@ -2,30 +2,30 @@
   "songs": [
     {
       "id" : 1,
-      "name" : "Musica A",
-      "album" : "Album A",
-      "duration" : 1000,
-      "image" : "aaaaa",
-      "artist" : "Artista A",
-      "gender" : "Rock"
+      "name" : "Hongkongaton",
+      "album" : "D-Sides",
+      "length" : "3:35",
+      "image" : "https://upload.wikimedia.org/wikipedia/pt/c/c6/D-Sides.jpg",
+      "artist" : "Gorillaz",
+      "genre" : "Indie, Dance, Pop"
     },
     {
       "id" : 2,
-      "name" : "Musica B",
-      "album" : "Album A",
-      "duration" : 1000,
-      "image" : "aaaaa",
-      "artist" : "Artista A",
-      "gender" : "Rock"
+      "name" : "Redbone",
+      "album" : "\"Awaken, My Love!\"",
+      "length" : "5:26",
+      "image" : "https://m.media-amazon.com/images/I/81OJBDOp21L._UF1000,1000_QL80_.jpg",
+      "artist" : "Childish Gambino",
+      "genre" : "R&B, Soul"
     },
     {
       "id" : 3,
-      "name" : "Musica C",
-      "album" : "Album A",
-      "duration" : 1000,
-      "image" : "aaaaa",
-      "artist" : "Artista A",
-      "gender" : "Rock"
+      "name" : "Run Boy Run",
+      "album" : "The Golden Age",
+      "length" : "3:33",
+      "image" : "https://upload.wikimedia.org/wikipedia/pt/f/f4/The_Golden_Age_Album_Art.jpg",
+      "artist" : "Woodkid",
+      "genre" : "Chamber pop, neofolk, Martial industrial"
     }
   ]
 }

@@ -2,8 +2,8 @@ export interface Song{
   id : number,
   name : string,
   album : string,
-  duration : number,
+  length : string,
   image : string,
   artist : string,
-  gender : string
+  genre : string
 }
