@@ -1,6 +1,9 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>Detalhes de {{song.name}}</ion-title>
+    <ion-buttons slot="end">
+      <ion-button [routerLink]="['/songs']"><ion-icon name="arrow-back-outline"></ion-icon></ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 

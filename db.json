@@ -26,6 +26,33 @@
       "image" : "https://upload.wikimedia.org/wikipedia/pt/f/f4/The_Golden_Age_Album_Art.jpg",
       "artist" : "Woodkid",
       "genre" : "Chamber pop, neofolk, Martial industrial"
+    },
+    {
+      "id" : 4,
+      "name" : "Legendary",
+      "album" : "Ruins",
+      "length" : "2:50",
+      "image" : "https://i.scdn.co/image/ab67616d0000b2737f8de270dbf06114c6a49d67",
+      "artist" : "Black Math",
+      "genre" : "Indie, pop"
+    },
+    {
+      "id" : 5,
+      "name" : "In Too Deep",
+      "album" : "Texture",
+      "length" : "3:21",
+      "image" : "https://cdns-images.dzcdn.net/images/cover/f16842d8008179842d3ab823b039e2b7/1900x1900-000000-80-0-0.jpg",
+      "artist" : "Battle Tapes",
+      "genre" : "Dance, Eletrônica"
+    },
+    {
+      "id" : 6,
+      "name" : "Uebok",
+      "album" : "Renaissance",
+      "length" : "2:43",
+      "image" : "https://cdns-images.dzcdn.net/images/cover/b1133b864b51e4d581963030f47ac7f8/1900x1900-000000-80-0-0.jpg",
+      "artist" : "Apashe, INSTASAMKA",
+      "genre" : "Dance, Eletrônica, Trap"
     }
   ]
 }
